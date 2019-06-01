@@ -3,7 +3,8 @@
 看到一些好玩的玩意也会放上来，方便后续的查找
 # JavaScript扫盲
   [理清JavaScript的单线程，异步，Event Loop，Promise的关系](https://github.com/fishCrush/myBlob/issues/2)
-
+  
+  [JS里slice，substring，substr方法参数传入负值时如何变化](https://github.com/fishCrush/myBlob/issues/3)
 
 
 # 小玩意
