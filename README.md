@@ -5,6 +5,7 @@
   [理清JavaScript的单线程，异步，Event Loop，Promise的关系](https://github.com/fishCrush/myBlob/issues/2)
   
   [JS里slice，substring，substr方法参数传入负值时如何变化](https://github.com/fishCrush/myBlob/issues/3)
+  [如何限制JS对象属性的配置](https://github.com/fishCrush/myBlob/issues/8)
   # vue之路
   [vue 生命周期之理解和应用](https://github.com/fishCrush/myBlob/issues/7)
   # webpack学习
