@@ -10,7 +10,8 @@
   # vue之路
   [vue 生命周期之理解和应用](https://github.com/fishCrush/myBlob/issues/7)
   # webpack学习
- [package.json中 npm依赖包版本前的符号的意义]( https://github.com/fishCrush/myBlob/issues)
+
+[package.json中 npm依赖包版本前的符号的意义]( https://github.com/fishCrush/myBlob/issues)
  
  # 杂货堆
  [浏览器缓存过程](https://github.com/fishCrush/myBlob/issues/9) 
