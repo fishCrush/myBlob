@@ -15,6 +15,8 @@
  # 杂货堆
  [浏览器缓存过程](https://github.com/fishCrush/myBlob/issues/9)
  
+ [cookie使用详解](https://github.com/fishCrush/myBlob/issues/10)
+ 
 # 调试
   [利用Fiddler 调试线上代码](https://github.com/fishCrush/myBlob/issues/4)
  
