@@ -7,6 +7,8 @@
   [JS里slice，substring，substr方法参数传入负值时如何变化](https://github.com/fishCrush/myBlob/issues/3)
   
   [如何限制JS对象属性的配置](https://github.com/fishCrush/myBlob/issues/8)
+  
+  [ES5和ES6 实现继承方式](https://github.com/fishCrush/myBlob/issues/11)
   # vue之路
   [vue 生命周期之理解和应用](https://github.com/fishCrush/myBlob/issues/7)
   # webpack学习
