@@ -14,7 +14,7 @@
 [package.json中 npm依赖包版本前的符号的意义]( https://github.com/fishCrush/myBlob/issues)
  
  # 杂货堆
- [浏览器缓存过程](https://github.com/fishCrush/myBlob/issues/9) 
+ [http缓存过程](https://github.com/fishCrush/myBlob/issues/9) 
  
  [cookie使用详解](https://github.com/fishCrush/myBlob/issues/10)
  
