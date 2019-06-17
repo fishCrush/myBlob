@@ -20,6 +20,7 @@
  
  [cookie使用详解](https://github.com/fishCrush/myBlob/issues/10)
  
+ [怎么在webstorm里安装autopremixer插件](https://github.com/fishCrush/myBlob/issues/12)
 # 调试
   [利用Fiddler 调试线上代码](https://github.com/fishCrush/myBlob/issues/4)
  
