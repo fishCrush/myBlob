@@ -9,6 +9,8 @@
   [如何限制JS对象属性的配置](https://github.com/fishCrush/myBlob/issues/8)
   
   [ES5 和 ES6 实现继承方式](https://github.com/fishCrush/myBlob/issues/11)
+  
+  [数组几种遍历方法的简答对比](https://github.com/fishCrush/myBlob/issues/13)
   # vue之路
   [vue 生命周期之理解和应用](https://github.com/fishCrush/myBlob/issues/7)
   # webpack学习
