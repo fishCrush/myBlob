@@ -11,6 +11,7 @@
   [ES5 和 ES6 实现继承方式](https://github.com/fishCrush/myBlob/issues/11)
   
   [数组几种遍历方法的简答对比](https://github.com/fishCrush/myBlob/issues/13)
+  
   [call,bind,apply 方法的原理解析和原生JS模拟实现](https://github.com/fishCrush/myBlob/issues/14)
   # vue之路
   
