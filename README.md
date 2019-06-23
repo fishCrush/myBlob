@@ -15,6 +15,7 @@
   [call,bind,apply 方法的原理解析和原生JS模拟实现](https://github.com/fishCrush/myBlob/issues/14)
   
   [WeakSet的学习，应用场景](https://github.com/fishCrush/myBlob/issues/15)
+  [](https://github.com/fishCrush/myBlob/issues/16)
   # vue之路
   
   [vue 生命周期之理解和应用](https://github.com/fishCrush/myBlob/issues/7)
