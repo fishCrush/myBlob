@@ -14,9 +14,9 @@
   
   [call,bind,apply 方法的原理解析和原生JS模拟实现](https://github.com/fishCrush/myBlob/issues/14)
   
-  [WeakSet的学习，应用场景](https://github.com/fishCrush/myBlob/issues/15)
+  [WeakSet 的学习，应用场景](https://github.com/fishCrush/myBlob/issues/15)
   
-  [WeakMap的学习与应用场景](https://github.com/fishCrush/myBlob/issues/16)
+  [WeakMap 的学习与应用场景](https://github.com/fishCrush/myBlob/issues/16)
   # vue, react 之路
   
   [vue 生命周期之理解和应用](https://github.com/fishCrush/myBlob/issues/7)
@@ -24,10 +24,10 @@
   [redux中间件之redux-thunk](https://github.com/fishCrush/myBlob/issues/18)
   # webpack学习
 
-[package.json中 npm依赖包版本前的符号的意义]( https://github.com/fishCrush/myBlob/issues)
+  [package.json中 npm依赖包版本前的符号的意义]( https://github.com/fishCrush/myBlob/issues)
  
  # 杂货堆
- [http缓存过程](https://github.com/fishCrush/myBlob/issues/9) 
+ [http 缓存过程](https://github.com/fishCrush/myBlob/issues/9) 
  
  [cookie使用详解](https://github.com/fishCrush/myBlob/issues/10)
  
