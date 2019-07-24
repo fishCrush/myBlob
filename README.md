@@ -40,3 +40,7 @@
   [调试代码的思路](https://github.com/fishCrush/myBlob/issues/5)
 # 小玩意
  [原生JS实现简易聊天对话框](https://github.com/fishCrush/myBlob/issues/1)
+
+# 实习收获记录
+ [解决项目端口被占用](https://github.com/fishCrush/myBlob/issues/19)
+ 
