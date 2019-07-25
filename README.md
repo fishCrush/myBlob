@@ -43,4 +43,7 @@
 
 # 实习收获记录
  [解决项目端口被占用](https://github.com/fishCrush/myBlob/issues/19)
+
+# Typescript 学习记录
+ [Typescript学习记录之接口](https://github.com/fishCrush/myBlob/issues/20)
  
